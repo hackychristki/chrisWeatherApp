@@ -19,7 +19,7 @@ A simple weather dashboard built while learning React. Search for a city to see 
 
 ## Run locally
 
-Install Node.js and npm, then open a terminal in the folder containing `package.json` (`my-react-app`).
+Install Node.js and npm, then open a terminal in the repository root (the folder containing `package.json`).
 
 ```bash
 npm install
